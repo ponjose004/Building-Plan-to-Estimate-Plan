@@ -1,6 +1,0 @@
-tensorflow
-keras
-tensorflow-gcs-config
-tensorflow-hub
-keras-vis
-keras-nightly
